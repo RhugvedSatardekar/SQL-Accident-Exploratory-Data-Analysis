@@ -8,7 +8,7 @@ This repository contains SQL queries and analysis related to vehicle information
 
 This query counts the number of accidents that occurred in urban and rural areas. It groups the data by the 'Area' column in the 'accident' table and then calculates the count of accidents in each area.
 
-```markdown
+
 
 
 ```sql
