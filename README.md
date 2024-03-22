@@ -169,5 +169,5 @@ GROUP BY
 ## Summary
 
 The analysis covers a range of questions related to accidents, vehicle characteristics, and accident severity. It provides insights into accidents' spatial distribution, temporal patterns, vehicle age effects, impact points, and journey purposes' influence on accident severity. These insights can be valuable for understanding accident trends and implementing targeted safety measures.
-```
+
 
